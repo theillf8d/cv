@@ -2,7 +2,10 @@ body {
   background-color: #eaf6f6;
 }
 
-h1,
+h1 {
+  color: #474f85;
+}
+
 h3 {
   color: #66bfbf;
 }
