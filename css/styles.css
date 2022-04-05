@@ -1,5 +1,7 @@
 body {
-  background-color: #eaf6f6;
+  background-color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkslategray;
 }
 
 h1 {
